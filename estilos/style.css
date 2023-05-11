@@ -23,7 +23,11 @@ body{
 
 h1{
     font-size: 5em;
+}
 
+h2{
+    font-weight: bolder;
+    font-size: 7em
 }
 
 h3{
